@@ -146,6 +146,7 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
+    privacy: "Priv Policy Test"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
